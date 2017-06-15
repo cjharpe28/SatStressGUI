@@ -25,7 +25,7 @@ import traceback
 import matplotlib, scipy.ndimage
 
 # Allows the program to find the time and date.
-#CHAD HARPER WAS HERE. 
+#CHAD HARPER WAS NOT HERE. 
 import time
 
 # fig state updated every plot command, but only redraw on explicit calls to draw()
