@@ -25,7 +25,7 @@ import traceback
 import matplotlib, scipy.ndimage
 
 # Allows the program to find the time and date.
-# Used to save images to a unique file location. - PS 2016
+#CHAD HARPER WAS HERE. 
 import time
 
 # fig state updated every plot command, but only redraw on explicit calls to draw()
